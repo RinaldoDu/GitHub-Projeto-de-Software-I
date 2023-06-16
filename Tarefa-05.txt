@@ -1,0 +1,22 @@
+Prática com Git
+
+Tarefa 05
+------------------------------------------------------------------
+● Crie uma pasta na sua área de trabalho;
+● Se o git não estiver instalado, o instale;
+● Abra uma conta no github, caso não tenha;(Print da conta)
+● Com base no que vimos na aula, e utilizando o repositório criado, ou outro
+   repositório de sua escolha:
+
+	○ Utilize o comando para trazer o arquivo do repositório(GITHUB) para sua
+	   máquina;(COLE O PRINT DO COMANDO NO CMD)
+	○ Altere alguma informação desse documento e o envie para uma nova branch
+	  chamada: Concluídos.
+
+		■ COLE O PRINT DOS COMANDOS NO CMD, DESDE O GIT
+		   STATUS ATÉ O ENVIO DESTE DOCUMENTO ALTERADO PARA A
+		   NOVA BRANCH/OU DESCREVA OS COMANDOS UTILIZADOS
+		   PARA FINALIZAR ESSA ETAPA, AO INVÉS DO PRINT;
+		   
+		■ COLE O PRINT DO ARQUIVO INCLUÍDO NA NOVA BRANCH LÁ
+		  NO GITHUB.
