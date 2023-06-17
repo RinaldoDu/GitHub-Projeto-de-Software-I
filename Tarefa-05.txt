@@ -1,7 +1,7 @@
 Prática com Git
 
 Tarefa 05
-------------------------------------------------------------------
+---------------------[  Arquivo Novo ]----------------------------------
 ● Crie uma pasta na sua área de trabalho;
 ● Se o git não estiver instalado, o instale;
 ● Abra uma conta no github, caso não tenha;(Print da conta)
@@ -10,8 +10,13 @@ Tarefa 05
 
 	○ Utilize o comando para trazer o arquivo do repositório(GITHUB) para sua
 	   máquina;(COLE O PRINT DO COMANDO NO CMD)
+	       
+	       git clone https://github.com/RinaldoDu/GitHub-Projeto-de-Software-I.git
+	   
 	○ Altere alguma informação desse documento e o envie para uma nova branch
 	  chamada: Concluídos.
+	  
+	       git checkout -b "Concluídos"
 
 		■ COLE O PRINT DOS COMANDOS NO CMD, DESDE O GIT
 		   STATUS ATÉ O ENVIO DESTE DOCUMENTO ALTERADO PARA A
